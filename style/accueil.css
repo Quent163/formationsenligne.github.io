@@ -1,0 +1,217 @@
+#informations {
+    height: 85%;
+    background-color: rgb(28, 28, 53);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: white;
+}
+
+#sante {
+    background-color: rgb(28, 28, 53);
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#sante h2 {
+    margin: 0;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#sante ul {
+    list-style: none;
+    display: flex;
+}
+
+.différentssoins {
+    width: 300px;
+    height: 400px;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.différentssoins div {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.ds1 {
+    background-image: url("../images/photo-relaxation\ nocopyright.avif");
+}
+
+
+.ds3 {
+    background-image: url("../images/Photosanté.avif");
+}
+
+.différentssoins h3 {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 24px;
+    color: white;
+}
+
+.différentssoins p {
+    margin: 0;
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+
+
+#argent {
+    background-color: rgb(28, 28, 53);
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#argent h2 {
+    margin: 0;
+    margin-left: 45px;
+    margin-bottom: 40px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#argent ul {
+    list-style: none;
+    display: flex;
+}
+
+.faireargent {
+    width: 310px;
+    height: 400px;
+    border: 1px solid rgb(230, 230, 230);
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.faireargent div {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.fa1 {
+    background-image: url("../images/pexels-kindelmedia-6773517.jpg");
+}
+
+.fa2 {
+    background-image: url("../images/tree-.webp");
+}
+
+.fa3 {
+    background-image: url("../images/hippique.jpg");
+}
+
+.faireargent h3 {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 24px;
+    color: white;
+}
+
+.faireargent p {
+    margin: 0;
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+
+
+
+#formation {
+    background-color: rgb(28, 28, 53);
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#formation h2 {
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#formation ul {
+    list-style: none;
+    display: flex;
+}
+
+.creerformation {
+    width: 300px;
+    height: 400px;
+    border: 1px solid rgb(230, 230, 230);
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.creerformation div {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.cf {
+    background-image: url("../images/formation.avif");
+}
+
+
+.creerformation h3 {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 24px;
+    color: white;
+}
+
+
+.creerformation p {
+    margin: 0;
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 15px;
+    color: white;
+}
